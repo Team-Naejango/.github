@@ -2,7 +2,7 @@
 <br />
 <br />
 <div align="center">
-  <img src="https://naejango.s3.ap-northeast-2.amazonaws.com/images/najango_logo.png" width="150" />
+  <img src="https://naejango.s3.ap-northeast-2.amazonaws.com/images/naejango_logo.png" width="150" />
   <br />
   <h4>1인 가구 맞춤형 공동구매 및 물물교환 커뮤니티 플랫폼</h4>
   <p>(https://d1ad0vl3i2dudp.cloudfront.net/)</p>
