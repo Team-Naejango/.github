@@ -5,7 +5,9 @@
   <img target="_blank" src="https://naejango.s3.ap-northeast-2.amazonaws.com/images/naejango_logo.png" width="150" />
   <br />
   <h4>1인 가구 맞춤형 공동구매 및 물물교환 커뮤니티 플랫폼</h4>
-  <a href="https://d1ad0vl3i2dudp.cloudfront.net/" target="_blank">(https://d1ad0vl3i2dudp.cloudfront.net/)</a>
+  
+  ([https://d1ad0vl3i2dudp.cloudfront.net/](https://d1ad0vl3i2dudp.cloudfront.net/))
+  
   <br /><br />
   <p>현재 프론트 1명, 백엔드 2명이 개발중에 있습니다.</p>
 </div>
