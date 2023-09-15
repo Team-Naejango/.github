@@ -6,7 +6,7 @@
   <br />
   <h4>1인 가구 맞춤형 공동구매 및 물물교환 플랫폼</h4>
   
-  ([https://d1ad0vl3i2dudp.cloudfront.net/](https://d1ad0vl3i2dudp.cloudfront.net/))
+  ([https://naejango.site](https://naejango.site/))
   
   <br /><br />
   <p>현재 프론트 1명, 백엔드 2명이 개발중에 있습니다.</p>
