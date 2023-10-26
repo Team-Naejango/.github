@@ -84,11 +84,15 @@ Spring Boot, Jpa + QueryDsl, Spring Security, AWS S3, AWS EC2, AWS ELS, AWS Elas
 
 ## 🗺️ 개발 로드맵
 
+![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/assets/Group+219.svg)
+
+<br />
+
 ![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/assets/Group+209.svg)
 
 <br />
 
-![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/assets/Group+211.svg)
+![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/assets/Group+218.svg)
 
 <br />
 
