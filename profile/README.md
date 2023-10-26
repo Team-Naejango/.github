@@ -20,13 +20,18 @@
 <br />
 
 ## 🛠 기술스택
-- 프론트엔드  
-Typescript, Next.Js @v13, Tailwind CSS, Recoil, React-Query, Kakao SDK, AWS S3, AWS CodePipeline, AWS CloudFront, PWA  
 
 <br />
 
-- 백엔드  
-Spring Boot, Jpa + QueryDsl, Spring Security, AWS S3, AWS EC2, AWS ELS, AWS ElastiCache for Redis, AWS RDS for PostgreSQL, Swagger
+![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/naejango_frontend_tech.svg)
+
+<br />
+
+![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/naejango_backend_tech.svg)
+
+<br />
+
+![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/naejango_infra_tech.svg)
 
 <br />
 
@@ -84,23 +89,13 @@ Spring Boot, Jpa + QueryDsl, Spring Security, AWS S3, AWS EC2, AWS ELS, AWS Elas
 
 ## 🗺️ 개발 로드맵
 
-![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%8C%E1%85%A1_%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3_%E1%84%8B%E1%85%AD%E1%84%8E%E1%85%A5%E1%86%BC%E1%84%83%E1%85%A9.svg)
+<br />
+
+![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/naejango_user_service.png)
 
 <br />
 
-![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A9_%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%90%E1%85%B3%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3_%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3.svg)
-
-<br />
-
-![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A9_%E1%84%87%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%A6%E1%86%AB%E1%84%83%E1%85%B3_%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3.svg)
-
-<br />
-
-![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/%E1%84%82%E1%85%A2%E1%84%8C%E1%85%A1%E1%86%AB%E1%84%80%E1%85%A9_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%91%E1%85%B3%E1%84%85%E1%85%A1_%E1%84%89%E1%85%A5%E1%84%87%E1%85%B5%E1%84%89%E1%85%B3.svg)
-
-<br />
-
-![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/Group+74.png)
+![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/naejango_ci.svg)
 
 <br />
 
