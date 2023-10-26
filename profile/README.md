@@ -1,6 +1,6 @@
 # 💡 내 잔고를 부탁해
 
-[![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/112.jpg)](https://naejango.site/)
+[![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/naejango_banner.jpg)](https://naejango.site/)
 
 ## 💁‍♂️ 프로젝트 소개
 
