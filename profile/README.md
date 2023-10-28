@@ -101,7 +101,8 @@
 
 ## 🎨 레이아웃
 
-![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/naejango_template.png)
-
+![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/naejango_template_01.png)
+![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/naejango_template_02.png)
+![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/naejango_template_03.png)
 
 현재, GIF로 서비스 시연 영상 만드는 중입니다.  
