@@ -106,7 +106,7 @@
 
 |스플래시 | 로그인| 회원가입 | 
 |---|---|---|
-|<img width=255px height=490px src="https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/splash-1.gif"/>|<img width=255px height=490px src="https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/02.svg"/>|<img width=255px height=490px src="https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/03.svg"/>|
+|![스플래시](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/splash-2.gif)|![로그인](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/login.svg)|![회원가입](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/03.svg)|
 
 |홈 화면| 이벤트 목록 | 알림 목록 |
 |---|---|---|
