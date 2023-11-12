@@ -110,7 +110,7 @@
 
 |홈 화면| 이벤트 목록 | 알림 목록 |
 |---|---|---|
-|![홈 화면](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/04.svg)|![이벤트 목록](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/05.svg)|![알림 목록](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/06.svg)|
+|![홈 화면](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/04_01.svg)|![이벤트 목록](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/05_01.svg)|![알림 목록](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/06.svg)|
 
 |창고 공간| 창고 생성 | 창고 아이템 목록 |
 |---|---|---|
@@ -144,9 +144,13 @@
 |---|---|---|
 |![거래 내역](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/28.svg)|![상세 거래 내역](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/29.svg)|![계정 설정](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/30.svg)|
 
-|아이템 매칭 | 창고 검색 | PWA |
+|아이템 매칭 | 창고 검색 | 아이템 검색 |
 |---|---|---|
-|![아이템 매칭](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/itemMatch.gif)|![창고 검색](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/search_02.gif)|![PWA](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/PWA_02.gif)|
+|![아이템 매칭](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/itemMatch.gif)|![창고 검색](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/search_02.gif)|![아이템 검색]()|
+
+|근처 그룹 채팅 | ? | PWA |
+|---|---|---|
+|![근처 그룹 채팅](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/group.gif)|![?]()|![PWA](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/PWA_02.gif)|
 
 |브라우저 알림 푸시(첫 알림 허용/채팅 신청 시/거래 등록 시)
 |---|
