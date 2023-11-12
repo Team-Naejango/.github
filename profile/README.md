@@ -102,9 +102,11 @@
 
 ## 🎨 UI
 
+
+
 |스플래시 | 로그인| 회원가입 | 
 |---|---|---|
-|![스플래시](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/01.svg)|![로그인](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/02.svg)|![회원가입](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/03.svg)|
+|<img width=300px height=590px src="https://github.com/Team-Naejango/.github/assets/29851772/6190680b-2fe0-4057-be44-74b9de07e8cb"/>|![로그인](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/02.svg)|![회원가입](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/03.svg)|
 
 |홈 화면| 이벤트 목록 | 알림 목록 |
 |---|---|---|
