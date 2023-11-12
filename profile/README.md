@@ -144,9 +144,9 @@
 |---|---|---|
 |![거래 내역](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/28.svg)|![상세 거래 내역](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/29.svg)|![계정 설정](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/30.svg)|
 
-|아이템 매칭 | 창고 검색 | 아이템 검색 |
+| 창고 검색 | 아이템 매칭 | 아이템 검색 |
 |---|---|---|
-|![아이템 매칭](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/matching.gif)|![창고 검색](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/storage_search.gif)|![아이템 검색]()|
+|![창고 검색](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/storage_search.gif)|![아이템 매칭](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/matching.gif)|![아이템 검색](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/searching.gif)|
 
 |근처 그룹 채팅 | ? | PWA |
 |---|---|---|
