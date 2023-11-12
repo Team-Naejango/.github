@@ -118,7 +118,7 @@
 
 |창고 아이템 수정| 창고 스팟 | 창고 선택 시 |
 |---|---|---|
-|![창고 아이템 수정](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/10.svg)|![창고 스팟](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/11.svg)|![창고 선택 시](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/12.svg)|
+|![창고 아이템 수정](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/10-1.svg)|![창고 스팟](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/11.svg)|![창고 선택 시](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/12.svg)|
 
 |창고 아이템 선택 | 거래신청 채팅방 선택(판매자만) | 거래 등록(판매자만) |
 |---|---|---|
