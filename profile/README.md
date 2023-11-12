@@ -146,7 +146,7 @@
 
 |아이템 매칭 | 창고 검색 | 아이템 검색 |
 |---|---|---|
-|![아이템 매칭](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/itemMatch.gif)|![창고 검색](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/search_02.gif)|![아이템 검색]()|
+|![아이템 매칭](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/matching.gif)|![창고 검색](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/search_02.gif)|![아이템 검색]()|
 
 |근처 그룹 채팅 | ? | PWA |
 |---|---|---|
