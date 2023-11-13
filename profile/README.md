@@ -144,23 +144,21 @@
 |---|---|---|
 |![거래 내역](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/28.svg)|![상세 거래 내역](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/29.svg)|![계정 설정](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/30.svg)|
 
-| 창고 검색 | 아이템 매칭 | 아이템 검색 |
+| 창고 검색 | 아이템 검색 | 아이템 매칭 |
 |---|---|---|
-|![창고 검색](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/storage_search_2.gif)|![아이템 매칭](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/matching.gif)|![아이템 검색](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/searching.gif)|
+|![창고 검색](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/storage_search_2.gif)|![아이템 검색](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/searching.gif)|![아이템 매칭](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/matching.gif)|
 
-|근처 그룹 채팅 | 채팅방 나가기 | 거래 로직 |
+|근처 그룹 채팅 | 채팅 | 채팅방 나가기 |
 |---|---|---|
-|![근처 그룹 채팅](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/nearby.gif)|![채팅방 나가기](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/chat_out_02.gif)|![거래 로직](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/transaction.gif)|
+|![근처 그룹 채팅](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/nearby.gif)|![채팅](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/chatting.gif)|![채팅방 나가기](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/chat_out_04.gif)|
 
-| 채팅 |  | PWA |
+| 거래 로직 | 위치 설정 | PWA |
 |---|---|---|
-|![채팅](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/chatting.gif)|![](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/chatting.gif)|![PWA](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/pwa-1.gif)|
+|![거래 로직](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/transaction.gif)|![위치 설정](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/gps.gif)|![PWA](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/pwa-1.gif)|
 
 |브라우저 알림 푸시(첫 알림 허용/채팅 신청 시/거래 등록 시)
 |---|
 |![브라우저 알림](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/sse.gif)|
-
-|![브라우저 알림](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/alarm_01.gif)|
 
 
 
