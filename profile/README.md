@@ -152,7 +152,7 @@
 |---|---|---|
 |![근처 그룹 채팅](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/nearby.gif)|![채팅](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/chatting.gif)|![채팅방 나가기](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/chat_out_04.gif)|
 
-| 거래 로직 | 위치 설정 | PWA |
+| 거래 로직 | 가상 위치 / 현재 위치 | PWA |
 |---|---|---|
 |![거래 로직](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/transaction.gif)|![위치 설정](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/gps.gif)|![PWA](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/layout/pwa-1.gif)|
 
