@@ -2,7 +2,19 @@
 
 [![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/naejango_banner.jpg)](https://naejango.site/)
 
-## 💁‍♂️ 프로젝트 소개
+<details open="open">
+  <summary>목차</summary>
+  <ol>
+    <li><a href="#-프로젝트-소개">프로젝트 소개</a></li>
+    <li><a href="#-팀원">팀원</a></li>
+    <li><a href="#-기술-스택">기술 스택</a></li>
+    <li><a href="#-구현-기능">구현 기능</a></li>
+    <li><a href="#%EF%B8%8F-개발-로드맵">개발 로드맵</a></li>
+    <li><a href="#-ui">UI</a></li>
+  </ol>
+</details>
+
+## 💁‍♂ 프로젝트 소개
 
 1인 가구 맞춤형 공동구매 및 중고거래 플랫폼입니다.
 
@@ -19,7 +31,7 @@
 
 <br />
 
-## 🛠 기술스택
+## 🛠 기술 스택
 
 <br />
 
