@@ -2,6 +2,8 @@
 
 [![github_readme](https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/naejango_banner.jpg)](https://naejango.site/)
 
+<br />
+
 <details open="open">
   <summary>목차</summary>
   <ol>
@@ -13,6 +15,8 @@
     <li><a href="#-ui">UI</a></li>
   </ol>
 </details>
+
+<br />
 
 ## 💁‍♂ 프로젝트 소개
 
@@ -26,7 +30,7 @@
 
 |                                                       프론트엔드                                                        |                                                        백엔드                                                         |                                                         백엔드                                                          
 | :---------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------: |
-| <img src="https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/github_avatar_taeyong.png" width=200px alt="_"/> | <img src="https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/github_avatar_kihong.jpeg" width=200px alt="_"/> | <img src="https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/github_avatar_sejun.jpeg" width=200px alt="_"/> |
+| <img src="https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/profile/taeyong3.jpeg" width=200px alt="_"/> | <img src="https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/profile/kihong.jpeg" width=200px alt="_"/> | <img src="https://naejango-s3-image.s3.ap-northeast-2.amazonaws.com/outer/profile/sejun.jpeg" width=200px alt="_"/> |
 |                                           [이태용](https://github.com/airhalfsoundhalf)                                            |                                            [김기홍](https://github.com/utopiandreams)                                            |                                          [안세준](https://github.com/asjjun)                                           |
 
 <br />
