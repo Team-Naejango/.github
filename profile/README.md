@@ -4,17 +4,15 @@
 
 <br />
 
-<details open="open">
-  <summary>목차</summary>
-  <ol>
+## 📌 목차
+  <ul>
     <li><a href="#-프로젝트-소개">프로젝트 소개</a></li>
     <li><a href="#-팀원">팀원</a></li>
     <li><a href="#-기술-스택">기술 스택</a></li>
     <li><a href="#-구현-기능">구현 기능</a></li>
     <li><a href="#%EF%B8%8F-개발-로드맵">개발 로드맵</a></li>
     <li><a href="#-ui">UI</a></li>
-  </ol>
-</details>
+  </ul>
 
 <br />
 
